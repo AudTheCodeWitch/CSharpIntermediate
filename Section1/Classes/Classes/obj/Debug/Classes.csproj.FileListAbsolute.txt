@@ -1,0 +1,13 @@
+C:/Projects/CSharpIntermediate/Section1/Classes/Classes/bin/Debug/Classes.exe.config
+C:/Projects/CSharpIntermediate/Section1/Classes/Classes/bin/Debug/Classes.exe
+C:/Projects/CSharpIntermediate/Section1/Classes/Classes/bin/Debug/Classes.pdb
+C:/Projects/CSharpIntermediate/Section1/Classes/Classes/obj/Debug/Classes.csprojResolveAssemblyReference.cache
+C:/Projects/CSharpIntermediate/Section1/Classes/Classes/obj/Debug/Classes.exe
+C:/Projects/CSharpIntermediate/Section1/Classes/Classes/obj/Debug/Classes.pdb
+/Users/audreacook/Code/cross-training/CSharpIntermediate/Section1/Classes/Classes/bin/Debug/Classes.exe.config
+/Users/audreacook/Code/cross-training/CSharpIntermediate/Section1/Classes/Classes/bin/Debug/Classes.exe
+/Users/audreacook/Code/cross-training/CSharpIntermediate/Section1/Classes/Classes/bin/Debug/Classes.pdb
+/Users/audreacook/Code/cross-training/CSharpIntermediate/Section1/Classes/Classes/obj/Debug/Classes.csproj.AssemblyReference.cache
+/Users/audreacook/Code/cross-training/CSharpIntermediate/Section1/Classes/Classes/obj/Debug/Classes.csproj.CoreCompileInputs.cache
+/Users/audreacook/Code/cross-training/CSharpIntermediate/Section1/Classes/Classes/obj/Debug/Classes.exe
+/Users/audreacook/Code/cross-training/CSharpIntermediate/Section1/Classes/Classes/obj/Debug/Classes.pdb
