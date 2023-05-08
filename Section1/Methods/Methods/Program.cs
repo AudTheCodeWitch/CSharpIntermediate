@@ -9,7 +9,7 @@ namespace Methods
         {
         }
 
-        static void UseOutModifier()
+        static void UseOutModifier() // this is considered a code smell
         {
             try
             {
@@ -22,7 +22,7 @@ namespace Methods
 
 
             int number;
-            var result = int.TryParse("abc", out number);
+            var result = int.TryParse("abc", out number); // TryParse returns a boolean and does not throw an exception
             if (result)
                 Console.WriteLine(number);
             else
@@ -44,10 +44,14 @@ namespace Methods
             try
             {
                 var point = new Point(10, 20);
-                point.Move(null);
+                var point2 = new Point(30, 40);
+                point.Move(null); // Throws an exception
                 Console.WriteLine("Point is at ({0}, {1})", point.X, point.Y);
 
-                point.Move(100, 200);
+                point.Move(100, 200); // This is fine
+                Console.WriteLine("Point is at ({0}, {1})", point.X, point.Y);
+                
+                point.Move(point2); // This is fine
                 Console.WriteLine("Point is at ({0}, {1})", point.X, point.Y);
             }
             catch (Exception)
